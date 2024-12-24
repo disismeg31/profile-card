@@ -24,8 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://profile-card-alpha-lemon.vercel.app/)
 
 ## My process
 
@@ -41,6 +40,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
  
 ## Author
 
-- Website - [Megha KL](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Megha KL](https://www.linkedin.com/in/312meghakl/)
+- Frontend Mentor - [@disismeg31](https://www.frontendmentor.io/profile/disismeg31)
  
