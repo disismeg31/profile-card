@@ -12,7 +12,15 @@ body {
   min-width: 320px;
   min-height: 100vh;
   font-family: 'Kumbh Sans',sans-serif;
-  background-color: #131212;
+ 
+  /* background-image: url('/bg-pattern-top.svg'),url('/bg-pattern-bottom.svg'); */
+  /* background-repeat: no-repeat, no-repeat; Prevent repetition of both SVGs */
+  
+  background-position: top -350px left -90px, bottom -350px right -90px;
+  
+   background-color:	#19a2a2;
+   background-size: 1000px, 1000px;
+   
 }
  
  
